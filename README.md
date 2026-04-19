@@ -289,6 +289,4 @@ Other platforms:
 - `npm run start` -> Start production server
 - `npm run lint` -> Run ESLint checks
 
----
 
-If you want, next step এ আমি এই README এর সাথে architecture diagram (Mermaid), API contract table, আর contributor guideline (`CONTRIBUTING.md`) add করে দিতে পারি।
